@@ -1,0 +1,27 @@
+{
+  "name": "understanding_ts",
+  "version": "1.0.0",
+  "description": "learning ts programming language",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amal369krishnan/TypeScript.git"
+  },
+  "keywords": [
+    "ts",
+    "js"
+  ],
+  "author": "Amal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amal369krishnan/TypeScript/issues"
+  },
+  "homepage": "https://github.com/amal369krishnan/TypeScript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
